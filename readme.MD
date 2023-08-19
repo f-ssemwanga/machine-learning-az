@@ -1,1 +1,1 @@
-This is a repo on work i have completed on the Machine Learning AZ course
+Several different ML models built using python Tensorflow, sklearn, pandas, numpy and matplotlib
